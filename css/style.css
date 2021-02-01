@@ -1,0 +1,68 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.blbody {
+    background-color: #0c0c0c;
+}
+
+.mainleft, .ft-logo, span {
+    float: left;
+}
+
+.mainright, .ft-p {
+    float: right;
+}
+
+html, body, .mainleft, .mainright {
+    height: 100%;
+}
+
+.main {
+    height: 90%;
+}
+
+.mainleft, .mainright {
+    width: 50%;
+    background-position: center;
+}
+
+.mainleft {
+    background-image: url("../img/name1.jpg");
+    background-size: 100.1% 100.1%;
+}
+
+.mainright {
+    border-radius: 10px;
+    background-image: url("../img/name2.jpg");
+    position: relative;
+}
+
+.banner {
+    position: absolute;
+    left: 50%;
+    right: 50%;
+}
+
+    .banner p {
+        color: black;
+        width: 20px;
+        height: 20px;
+    }
+
+.blfoot {
+    width: 100%;
+}
+
+.ft-logo {
+    width: 25px;
+    height: 25px;
+    margin: 0 8px;
+}
+
+.ft-p {
+    color: white;
+    margin-right: 5%;
+    padding: 15px;
+}
