@@ -56,8 +56,8 @@ html, body, .mainleft, .mainright {
 }
 
 .ft-logo {
-    width: 25px;
-    height: 25px;
+    width: 30px;
+    height: 30px;
     margin: 0 8px;
 }
 
@@ -65,4 +65,10 @@ html, body, .mainleft, .mainright {
     color: white;
     margin-right: 5%;
     padding: 15px;
+}
+
+.ft-text {
+    font-size: 50%;
+    position: center;
+    vertical-align: middle;
 }
