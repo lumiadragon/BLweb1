@@ -20,7 +20,7 @@ html, body, .mainleft, .mainright {
 }
 
 .main {
-    height: 90%;
+    height: 93%;
 }
 
 .mainleft, .mainright {
@@ -72,3 +72,4 @@ html, body, .mainleft, .mainright {
     position: center;
     vertical-align: middle;
 }
+
